@@ -12,7 +12,7 @@
 - 🌱 Fun fact: I speak 3 languages ( Vietnamese, Japanese and English)
 
 
-### 📫Connect with me:
+### 📫 Connect with me:
 <img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
