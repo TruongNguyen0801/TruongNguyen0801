@@ -1,9 +1,9 @@
-### Hello, I'm Truong <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hello,  I'm Truong <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/93698809/145155444-ca5085a9-7dc5-48ad-8743-8bfde5c7c94b.gif" width="500" height="350" />
  
  
-## **I'm an Intern!!**
+## **I'm an Intern. I'm discovering what a wonderful community BI is, exploring and analyzing data!!**
 - 👨‍💻 You can find my projects here [Portfolio](https://www.linkedin.com/login)
 - ✍ I’m currently learning Data Analyst
 - 🤔 I'm looking for help in Data Science
