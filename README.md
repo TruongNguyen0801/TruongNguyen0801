@@ -4,7 +4,7 @@
  
  
 ## **I'm an Intern. I'm discovering what a wonderful community BI is, exploring and analyzing data!!**
-- 👨‍💻 You can find my projects here [Portfolio](https://www.linkedin.com/login)
+- 👨‍💻 You can find my projects here [Portfolio](https://www.linkedin.com/login) and [BI](https://public.tableau.com/)
 - ✍ I’m currently learning Data Analyst
 - 🤔 I'm looking for help in Data Science
 - 💬 Ask me about ... Anything
@@ -13,9 +13,9 @@
 
 
 ### 📫 Connect with me:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
-<br />
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=%23003140&logoColor=white)](https://www.linkedin.com/in/quanngha/)
+
 
 
 ### ⚡ Languages and Tools
