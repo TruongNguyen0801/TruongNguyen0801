@@ -7,7 +7,7 @@
 - 👨‍💻 You can find my projects here [Portfolio](https://www.linkedin.com/login) and [BI](https://public.tableau.com/)
 - ✍ I’m currently learning Data Analyst
 - 🤔 I'm looking for help in Data Science
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Hi
 - 🌱 Fun fact: I speak 3 languages ( Vietnamese, Japanese and English)
 
 I'm best reached via [email](https://www.google.com/intl/vi/gmail/about/). I'm always open to interesting conversations and collaboration.
