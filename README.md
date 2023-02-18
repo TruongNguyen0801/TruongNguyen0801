@@ -27,7 +27,7 @@ I'm best reached via [email](https://www.google.com/intl/vi/gmail/about/). I'm a
 <img align="left" alt="python" width="27px" src="https://user-images.githubusercontent.com/93107832/145171697-ff4cea5e-4bae-4568-87ec-fc14b7f5ce73.png" />
 <img align="left" alt="SQL" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Tablueau" width="26px" src="https://user-images.githubusercontent.com/93698809/145163403-1e7f6365-0b17-44a2-b3bb-95b804932d25.png" />
-<img align="left" alt="PowerBI" width="26px" src="https://user-images.githubusercontent.com/93698809/145163146-9fd1235f-8368-4d7d-8e7d-c78c7a8c5a89.png" />
+<img align="left" alt="Jira" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_jira_logo_icon_170511.png" />
 <img align="left" alt="VBA" width="26px" src="https://user-images.githubusercontent.com/93107832/145516531-d1bde39a-db40-4101-84f1-604e89e45409.png" />
 <img align="left" alt="Word" width="26px" src="https://user-images.githubusercontent.com/93107832/145179345-45452cbc-da4d-48a1-8227-f5acc6b7e4b7.png" />
 <img align="left" alt="Excel" width="26px" src="https://user-images.githubusercontent.com/93107832/145178141-9e4a5128-811f-44cd-a527-c2b71a9ad3ec.png" />
